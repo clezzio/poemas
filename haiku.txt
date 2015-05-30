@@ -6,6 +6,6 @@ With searching comes loss
 and the presence of absence:
 "My Thesis" not found.
 
-Yesterday it worked
+Ontem it worked
 Tomorrow it is not working
 Software is like that.
